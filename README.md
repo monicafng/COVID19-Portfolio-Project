@@ -11,4 +11,4 @@ Data exploration using SQL. Skills used:  Aggregate Functions, Windows Functions
 ### [covid_data_tableau_queries.sql](https://github.com/monicafng/COVID19-Portfolio-Project/blob/main/covid_data_tableau_queries.sql)
 Queries used for Tableau Project. The outputs were exported as csv files and loaded into Tableau for data visualization.
 
-### [Covid-19 Dashboard on Tableau](https://public.tableau.com/app/profile/monicafeng/viz/Covid-19Dashboard_16314834116800/PercentPopulationInfected)
+### [Covid-19 Dashboard on Tableau](https://public.tableau.com/views/Covid-19Dashboard_16314834116800/Covid-19Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
